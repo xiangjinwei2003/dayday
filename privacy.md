@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>隐私政策 - OKR 目标管理</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Helvetica Neue', sans-serif;
+            line-height: 1.8;
+            color: #333;
+            background: linear-gradient(135deg, #f5f7fa 0%, #e4e8ec 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            padding: 48px;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.08);
+        }
+
+        h1 {
+            font-size: 32px;
+            font-weight: 600;
+            color: #1a1a1a;
+            margin-bottom: 8px;
+            text-align: center;
+        }
+
+        .app-name {
+            text-align: center;
+            color: #078D8D;
+            font-size: 18px;
+            margin-bottom: 32px;
+        }
+
+        .update-date {
+            text-align: center;
+            color: #888;
+            font-size: 14px;
+            margin-bottom: 40px;
+        }
+
+        h2 {
+            font-size: 20px;
+            font-weight: 600;
+            color: #1a1a1a;
+            margin-top: 32px;
+            margin-bottom: 16px;
+            padding-left: 12px;
+            border-left: 4px solid #078D8D;
+        }
+
+        p {
+            margin-bottom: 16px;
+            color: #555;
+        }
+
+        ul {
+            margin-left: 24px;
+            margin-bottom: 16px;
+        }
+
+        li {
+            margin-bottom: 8px;
+            color: #555;
+        }
+
+        .highlight-box {
+            background: linear-gradient(135deg, #DEECEC 0%, #e8f4f4 100%);
+            border-radius: 12px;
+            padding: 20px 24px;
+            margin: 24px 0;
+        }
+
+        .highlight-box p {
+            margin: 0;
+            color: #078D8D;
+            font-weight: 500;
+        }
+
+        .contact-section {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 24px;
+            margin-top: 32px;
+            text-align: center;
+        }
+
+        .contact-section h2 {
+            border: none;
+            padding: 0;
+            text-align: center;
+        }
+
+        .email-link {
+            color: #078D8D;
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .email-link:hover {
+            text-decoration: underline;
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 40px;
+            padding-top: 24px;
+            border-top: 1px solid #eee;
+            color: #888;
+            font-size: 14px;
+        }
+
+        @media (max-width: 600px) {
+            .container {
+                padding: 32px 24px;
+                border-radius: 16px;
+            }
+
+            h1 {
+                font-size: 26px;
+            }
+
+            h2 {
+                font-size: 18px;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>隐私政策</h1>
+        <p class="app-name">OKR 目标管理 App</p>
+        <p class="update-date">最后更新日期：2026年1月15日</p>
+
+        <div class="highlight-box">
+            <p>✨ 我们非常重视您的隐私。本应用不收集、不存储、不传输您的任何个人数据到服务器。</p>
+        </div>
+
+        <h2>1. 数据存储</h2>
+        <p>本应用的所有数据（包括您创建的目标、任务、打卡记录等）均 <strong>仅存储在您的设备本地</strong>，使用 iOS 系统提供的安全存储机制。我们不运营任何后端服务器，因此：</p>
+        <ul>
+            <li>您的数据不会上传到云端</li>
+            <li>您的数据不会与第三方共享</li>
+            <li>您的数据完全由您自己控制</li>
+        </ul>
+
+        <h2>2. 我们不收集的信息</h2>
+        <p>本应用 <strong>不会</strong> 收集以下信息：</p>
+        <ul>
+            <li>个人身份信息（姓名、邮箱、电话等）</li>
+            <li>设备标识符</li>
+            <li>位置信息</li>
+            <li>使用行为数据</li>
+            <li>任何形式的分析数据</li>
+        </ul>
+
+        <h2>3. 第三方服务</h2>
+        <p>本应用目前不集成任何第三方 SDK 或分析服务。如果未来版本有所变更，我们会更新此隐私政策并通知用户。</p>
+
+        <h2>4. 数据安全</h2>
+        <p>由于所有数据仅存储在您的设备上，数据的安全性取决于您设备的安全设置。我们建议您：</p>
+        <ul>
+            <li>设置设备密码或 Face ID / Touch ID</li>
+            <li>定期备份您的设备</li>
+            <li>保持 iOS 系统更新</li>
+        </ul>
+
+        <h2>5. 数据删除</h2>
+        <p>您可以随时通过以下方式删除应用数据：</p>
+        <ul>
+            <li>在应用内删除单个目标或任务</li>
+            <li>卸载应用（将删除所有本地数据）</li>
+        </ul>
+
+        <h2>6. 儿童隐私</h2>
+        <p>本应用不专门面向 13 岁以下儿童，也不会有意收集儿童的个人信息。</p>
+
+        <h2>7. 隐私政策更新</h2>
+        <p>如果我们对隐私政策进行重大更改，我们会在此页面上发布更新后的政策。建议您定期查看本页面以了解任何变更。</p>
+
+        <div class="contact-section">
+            <h2>8. 联系我们</h2>
+            <p>如果您对本隐私政策有任何疑问，请通过以下方式联系我们：</p>
+            <p><a href="mailto:xiangjinwei2003@gmail.com" class="email-link">xiangjinwei2003@gmail.com</a></p>
+        </div>
+
+        <footer>
+            <p>© 2026 OKR 目标管理. All rights reserved.</p>
+        </footer>
+    </div>
+</body>
+
+</html>
